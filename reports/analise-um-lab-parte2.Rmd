@@ -146,7 +146,7 @@ grid.arrange(p1, p2, ncol = 2)
 
 ### Conclusão
 
-Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemárica **positiva/negativa** e **fraca/média/forte** (média XXX, desv. padrão YYY, N = ZZZ). Homens tiveram uma associação **positiva/negativa** com a matemática, portanto **maior/menor** que a das mulheres (média , desv. padrão, N = ). Houve portanto uma **grande/considerável/pequena** diferença entre homens e mulheres (diferença das médias XXXX, 95% CI [CCC, DDD]). A partir desta amostra, estimamos que...
+Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemática negativa, de intensidade média com média igual a 0.4666898, desv. padrão de YYY e N igual a ZZZ. Homens tiveram uma associação positiva com a matemática, portanto menor que a das mulheres com média igual a 0.2236359, desv. padrão de YYY e N igual a ZZZ Houve portanto uma considerável diferença entre homens e mulheres (diferença das médias -0.2430539, 95% CI [-0.4268957, -0.06989959]). A partir desta amostra, estimamos que...
 
 --- 
 *Exemplos de possíveis conclusões para completar*
